@@ -1,0 +1,10 @@
+C:\Users\Matthew\source\repos\WFS2\WFS2\bin\Debug\WFS2.exe.config
+C:\Users\Matthew\source\repos\WFS2\WFS2\bin\Debug\WFS2.exe
+C:\Users\Matthew\source\repos\WFS2\WFS2\bin\Debug\WFS2.pdb
+C:\Users\Matthew\source\repos\WFS2\WFS2\obj\Debug\WFS2.csprojAssemblyReference.cache
+C:\Users\Matthew\source\repos\WFS2\WFS2\obj\Debug\WFS2.LoginForm.resources
+C:\Users\Matthew\source\repos\WFS2\WFS2\obj\Debug\WFS2.Properties.Resources.resources
+C:\Users\Matthew\source\repos\WFS2\WFS2\obj\Debug\WFS2.csproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\WFS2\WFS2\obj\Debug\WFS2.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\WFS2\WFS2\obj\Debug\WFS2.exe
+C:\Users\Matthew\source\repos\WFS2\WFS2\obj\Debug\WFS2.pdb

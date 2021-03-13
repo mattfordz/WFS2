@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WFS2
 {
-    public partial class LoginForm : Form
+    public partial class MainForm : Form
     {
-        public LoginForm()
+        public MainForm()
         {
             InitializeComponent();
         }
